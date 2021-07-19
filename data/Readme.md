@@ -5,5 +5,4 @@
 Thus providing the link of the dataset below
 
 ```
-
 Link to the data: [dataset](https://www.kaggle.com/c/facial-keypoints-detection/data) 
