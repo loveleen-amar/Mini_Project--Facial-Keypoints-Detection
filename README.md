@@ -2,7 +2,7 @@
 **The task:**  The objective of this task is to predict keypoint positions on face images. Detecing facial key points is a very challenging problem.
 An Example: 
 
-<img src="https://github.com/loveleen-amar/Mini_Project-Facial_Keypoints_Detection/blob/main/1.png" width="300">  
+<img src="https://github.com/loveleen-amar/Mini_Project-Facial_Keypoints_Detection/blob/main/1.png" width="250">  
 
 
 **What type of problem:** This keypoint detection problem is a regression problem since we are predicting the coordinates for the landmarks on the face which are real numbers. Detection of facial keypoints is very useful for a number of tasks like facial recognition, detection etc. The keypoints selected in this code uses 15 keypoints representing the various coordinates on the human face. 
@@ -13,7 +13,7 @@ An Example:
 The images were grayscale and had the shape 96 X 96.The images were grayscale and had the shape 96 X 96. The network architecture is shown below.
 
 
-<img src="https://github.com/loveleen-amar/Mini_Project-Facial_Keypoints_Detection/blob/main/2.JPG" width="300">  
+<img src="https://github.com/loveleen-amar/Mini_Project-Facial_Keypoints_Detection/blob/main/2.JPG" width="450">  
 
 **Hyperparameter:**
 Epochs= 60
