@@ -13,6 +13,7 @@ The dataset for this problem was downloaded from Kaggle. In the space of pixel i
 **Model:** 
 I used Convolutional Neural Network for this problem. The model was trained on a set of approx 1700 images and around 300 images were taken for validation purposes. 
 The images were grayscale and had the shape 96 X 96.The images were grayscale and had the shape 96 X 96. The network architecture is shown below.
+
 <img src="https://github.com/loveleen-amar/Mini_Project-Facial_Keypoints_Detection/blob/main/2.JPG" width="450">  
 
 **Hyperparameter:**
